@@ -1,4 +1,5 @@
 h1 {
+  font-size:
   color: red;
   text-align: center;
 }
@@ -14,6 +15,11 @@ p {
 }
 
 ul {
-  font-size: 20px;
+  font-size: 45px;
+  line-height: 30px;
+}
+
+ol {
+  font-size: 45px;
   line-height: 30px;
 }
