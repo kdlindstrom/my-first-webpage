@@ -1,7 +1,7 @@
 h1 {
-  font-size:
+  font-size: 70px;
   color: red;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
@@ -16,10 +16,10 @@ p {
 
 ul {
   font-size: 45px;
-  line-height: 30px;
+  line-height: 55px;
 }
 
 ol {
   font-size: 45px;
-  line-height: 30px;
+  line-height: 55px;
 }
